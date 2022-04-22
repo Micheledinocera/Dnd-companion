@@ -1,4 +1,4 @@
-# welcome-home
+# dnd-companion
 
 ## Project setup
 ```
